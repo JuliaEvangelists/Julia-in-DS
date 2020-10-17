@@ -15,7 +15,7 @@
 Если Вы еще не готовы устанавливать Julia на свой компьютер, то Вы можете использовать готовый Docker [контейнер](https://hub.docker.com/repository/docker/vlasoff/ml) в котором можно запускать и создавать Jupiter ноутбуки написанные на Julia.  
 Если у Вас уже установлен докер, то Перейдите в нужную папку и запустите команду:  
 ```docker run -d -p 4545:4545 -v $PWD:/home/user vlasoff/ml jupyter notebook```   
-Если докер не установлен, то сначала сделайте это перейдя на [официальный сайт](https://www.docker.com/products/docker-desktop)
+Если докер не установлен, то сделайте [это](https://www.docker.com/products/docker-desktop)
   
 Если Вам захочется улучшить его, сделайте pull request [сюда](https://github.com/VlasovKirill/ml_docker) или соберите свой образ на его основе
 
