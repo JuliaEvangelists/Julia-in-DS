@@ -12,12 +12,14 @@
 Установите julia c [официального сайта](https://julialang.org/downloads/) и воспользуйтесь [инструкцией](https://datatofish.com/add-julia-to-jupyter/)
 
 ### Вариант 2
-Если Вы еще не готовы устанавливать Julia на свой компьютер, то Вы можете использовать готовый Docker [контейнер](https://hub.docker.com/repository/docker/vlasoff/ml) в котором можно запускать и создавать Jupiter ноутбуки написанные на Julia. Перейдите в нужную папку и запустите команду: 
-```docker run -d -p 4545:4545 -v $PWD:/home/user vlasoff/ml jupyter notebook```
+Если Вы еще не готовы устанавливать Julia на свой компьютер, то Вы можете использовать готовый Docker [контейнер](https://hub.docker.com/repository/docker/vlasoff/ml) в котором можно запускать и создавать Jupiter ноутбуки написанные на Julia.  
+Перейдите в нужную папку и запустите команду:  
+```docker run -d -p 4545:4545 -v $PWD:/home/user vlasoff/ml jupyter notebook```   
+  
 Если Вам захочется улучшить его, сделайте pull request [сюда](https://github.com/VlasovKirill/ml_docker) или соберите свой образ на его основе
 
 
-### Содержание Курса
+## Содержание Курса
 1. Основы Julia
 2. Работа с данными
 3. Разведочный анализ данных
