@@ -30,6 +30,11 @@
 5. Глубокое обучение
 6. Методы оптимизации
 
+## Видео лекции
+[Плейлист](http://bit.ly/julia_in_ds_videos) на YouTube
+
+## Материалы
+[Все материалы](http://bit.ly/julia_in_ds_materals) в репозитории на GitHub
 
 ## Авторы курса
 - [Кирилл Власов](https://github.com/VlasovKirill)
