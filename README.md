@@ -31,10 +31,10 @@
 6. Методы оптимизации
 
 ## Видео лекции
-[Плейлист](http://bit.ly/julia_in_ds_videos) на YouTube
+[Плейлист](https://www.youtube.com/playlist?list=PLTlO6nV_TaGDX81p4b1dbqtJWHR1iZqof) на YouTube
 
 ## Материалы
-[Все материалы](http://bit.ly/julia_in_ds_materals) в репозитории на GitHub
+[Все материалы](https://github.com/JuliaEvangelists/Julia-in-DS/) в репозитории на GitHub
 
 ## Авторы курса
 - [Кирилл Власов](https://github.com/VlasovKirill)
